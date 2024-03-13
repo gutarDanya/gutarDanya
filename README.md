@@ -13,4 +13,4 @@
  * ![TypeScript](https://img.icons8.com/?size=48&id=nCj4PvnCO0tZ&format=png) TypeScript
  ### Стек библиотек, технологий и фреймворков:
   <img width='80' height='80' src='https://img.icons8.com/?size=80&id=NfbyHexzVEDk&format=png'>  <img width='80' height='80' src='https://img.icons8.com/?size=50&id=A6r5yddU9uA0&format=png'>  <img width='80' height='80' src='https://img.icons8.com/?size=80&id=bp24DwGXJDyT&format=png'>  <img width='80' height='80' src='https://bestofjs.org/logos/cypress.dark.svg'>  <img width='80' height='80' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS-4ljMOXplQjXurgK9Im8452Vs7I3RNbEoVt4bsG5eNOFvltcKGqSszB7RvZEScqq1s4&usqp=CAU'>  <img width='80' height='80' src='https://img.icons8.com/?size=48&id=sOWbK4N3cxGh&format=png'>  <img width='80' height='80' src='https://img.icons8.com/?size=48&id=20906&format=png'>  <img width='80' height='80' src='https://cdn-icons-png.flaticon.com/128/5968/5968267.png'>  
-React, Redux, Jest, Cypress, react-router-dom, react-dnd, webPack, git, HTML, CSS,
+React,    Redux,    Jest,    Cypress,    react-router-dom,    react-dnd,    webPack,    git,    HTML,   CSS,
